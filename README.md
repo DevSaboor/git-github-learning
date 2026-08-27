@@ -132,9 +132,9 @@ Whenever possible, concepts are practiced directly using Git rather than only be
 | Section              | Status |
 | -------------------- | ------ |
 | Git Fundamentals     | ✅      |
-| Installing Git       | ⬜      |
-| How Git Works        | ⬜      |
-| Hands-on Git         | ⬜      |
+| Installing Git       | ✅      |
+| How Git Works        | ✅      |
+| Hands-on Git         | ✅      |
 | Single-User Workflow | ⬜      |
 | Ignoring Files       | ⬜      |
 | Branching            | ⬜      |
